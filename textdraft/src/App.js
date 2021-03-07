@@ -31,7 +31,7 @@ const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-        Rich Text Editor Example
+        Rich Text Editor Demo
       </header>
       <Editor
         editorState={editorState}
